@@ -79,7 +79,7 @@ Power BI (Dashboards)
 | Layer | Tools |
 |---|---|
 | Storage | AWS S3 |
-| ETL | AWS Glue, SQL, Python |
+| ETL | AWS Glue, PySpark, SQL, Python |
 | Data Warehouse | Snowflake |
 | Data Modeling | dbt (star schema) |
 | BI & Visualization | Power BI (DAX, Power Query) |
