@@ -1,0 +1,41 @@
+rating_id,rating_by_user_id,rating_for_user_id,rating_astype,rating_value,rating_comment
+1,25,10,Buyer,5,Pays on time.
+2,24,7,Buyer,4,Not Bad
+3,23,8,Buyer,3,Okay
+4,22,1,Buyer,4,Reliable
+5,21,3,Buyer,5,Great!!
+6,20,6,Buyer,3,Not Bad
+7,19,8,Buyer,1,Really Bad
+8,18,10,Buyer,4,GOod
+9,17,4,Buyer,5,A+++++
+10,16,8,Buyer,1,Meh.
+11,15,10,Buyer,5,Pays on time.
+12,14,7,Buyer,4,Not Bad
+13,13,8,Buyer,3,Okay
+14,12,1,Buyer,4,Reliable
+15,15,3,Buyer,5,Great!!
+16,17,6,Buyer,3,So so.
+17,19,8,Buyer,1,Really Bad
+18,25,10,Buyer,4,GOod
+19,11,4,Buyer,5,A++
+20,11,8,Buyer,1,Boo. Hiss.
+21,1,25,Seller,5,Top Notch!
+22,2,25,Seller,4,GOod
+23,3,22,Seller,3,Okay
+24,4,1,Seller,4,Reliable
+25,5,25,Seller,5,Execellent!
+26,6,9,Seller,3,Not Bad
+27,25,11,Seller,0,Horrible.
+28,8,3,Seller,5,Nice!
+29,9,1,Seller,5,The Best!
+30,10,9,Seller,2,So-So
+31,1,11,Seller,2,Needs Improvement
+32,12,3,Seller,2,Bad Experience.
+33,2,11,Seller,1,Bad.
+34,7,14,Seller,1,Poor
+35,25,1,Seller,4,Great!
+36,16,25,Seller,5,Super Great!
+37,17,14,Seller,4,Great!
+38,15,8,Seller,2,Bad!
+39,14,8,Seller,3,Okay
+40,8,13,Seller,4,Great!

@@ -1,0 +1,35 @@
+item_id,item_name,item_type,item_description,item_reserve,item_enddate,item_sold,item_seller_user_id,item_buyer_user_id,item_soldamount
+1,Used Pink Bathrobe,All Other,,15.95,08:52.7,1,1,5,22.5
+2,Rare Mint Snow Globe,Collectables,,30.5,08:52.7,1,2,11,40
+3,Smurf TV Tray,Collectables,,25,08:52.7,1,3,8,26
+4,Pet Rock,All Other,,2.5,08:52.5,0,4,,
+5,Alf Alarm Clock,Collectables,,5,08:52.5,0,25,,
+6,Shatner's old Toupee,Collectables,,199.99,08:52.5,0,17,,
+7,Slightly-damaged Golf Bag,Sporting Goods,,12.75,08:52.5,0,8,,
+8,"Some Beanie Babies, New with Tag!",Collectables,,99.99,08:52.5,0,9,,
+9,Tchotchkes,All Other,,0.99,08:52.5,0,10,,
+10,"Your Watch, Please?",Jewelry,,6.95,08:52.5,0,11,,
+11,Dukes Of Hazard ashtray,Collectables,,149.99,08:52.5,0,11,,
+12,PacMan Fever lunchbox,Collectables,,29.99,08:52.5,0,25,,
+13,case of vintage tube socks,Antiques,,9,08:52.5,0,22,,
+14,Kleenex used by Dr. Dre,Collectables,,500,08:52.5,0,22,,
+15,Farrah Fawcet poster,Collectables,,50,08:52.5,0,14,,
+16,Pez dispensers,Collectables,,10,08:52.7,1,13,17,11
+17,a Toaster,Antiques,,20,08:52.5,0,17,,
+18,Antique Desk,Antiques,,250,08:52.5,0,11,,
+19,SQL for Dummies,Books,,10.99,08:52.5,0,25,,
+20,Mike Fudge BobbleHead,Collectables,,49.95,08:52.5,0,9,,
+21,Carlos Villalba BobbleHead,Collectables,,49.95,08:52.5,0,9,,
+22,Fuzzy Logic,Books,,4.5,08:52.7,1,15,16,5
+23,Dusty Vase,Antiques,,100,08:52.5,0,1,,
+24,Old Diamond Ring,Jewelry,,599.99,08:52.5,0,1,,
+25,Betamax Player,Electronics,,15,08:52.5,0,15,,
+26,Joe Montanna Figurine,Collectables,,200,08:52.5,0,11,,
+27,Ark of the Covenant,All Other,,10000000,08:52.5,0,1,,
+28,Superbowl XLIV tickets,Tickets,,750,08:52.5,0,3,,
+30,Avatar 3D Two Tickets,Tickets,,5,08:52.5,0,25,,
+32,Ten Speed Bike,Sporting Goods,,12.5,08:52.5,0,3,,
+33,Original Coke Bottle from 1960,Antiques,,65,08:52.5,0,19,,
+34,Client/Server Survival Guide,Books,,9.95,08:52.5,0,5,,
+35,Brass French Press,Antiques,,45.5,08:52.5,0,25,,
+36,Autographed Mik Jagger Poster,Collectables,,75,08:52.7,1,25,1,100
